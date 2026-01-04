@@ -1,6 +1,6 @@
 import pandas as pd
 
-data = pd.read_csv("../sample_data/student_records.csv")
+data = pd.read_csv("sample_data/student_records.csv")
 
 print("Average Attendance:", data["attendance"].mean())
 print("Average Score:", data["score"].mean())

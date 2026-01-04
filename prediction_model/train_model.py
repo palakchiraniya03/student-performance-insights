@@ -3,7 +3,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 
-data = pd.read_csv("../sample_data/student_records.csv")
+data = pd.read_csv("sample_data/student_records.csv")
 
 X = data[["attendance", "score"]]
 y = data["final_status"]
