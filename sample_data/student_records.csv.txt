@@ -1,0 +1,6 @@
+student_id,full_name,department,attendance,score,final_status
+1,Aryan Sharma,CSE,92,85,1
+2,Meera Joshi,IT,65,58,0
+3,Rahul Patil,CSE,80,72,1
+4,Ananya Deshmukh,ENTC,55,50,0
+5,Kunal Verma,IT,88,90,1
